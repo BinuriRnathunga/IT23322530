@@ -24,7 +24,7 @@ This project contains automated testing scripts for SwiftTranslator (https://swi
 
 1. Clone the repository:
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/BinuriRnathunga/IT23322530.git
 cd IT23322530
 ```
 
@@ -56,8 +56,7 @@ Place your test data in the `test-data/` directory with the following Excel form
 
 | TC ID | Input | Expected output | Actual output | Status |
 |-------|-------|-----------------|---------------|--------|
-| TC01  | Hello | مرحبا          |               |        |
-| TC02  | World | العالم         |               |        |
+
 
 ## ▶️ Running Tests
 
